@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Diploma-for-TeachMeSkills/static/css/main.ffdc3f58.css",
+    "main.js": "/Diploma-for-TeachMeSkills/static/js/main.4b3072cb.js",
+    "static/media/silver-g6d3005c89_1920.jpg": "/Diploma-for-TeachMeSkills/static/media/silver-g6d3005c89_1920.97192f103048a7c66ff5.jpg",
+    "index.html": "/Diploma-for-TeachMeSkills/index.html",
+    "main.ffdc3f58.css.map": "/Diploma-for-TeachMeSkills/static/css/main.ffdc3f58.css.map",
+    "main.4b3072cb.js.map": "/Diploma-for-TeachMeSkills/static/js/main.4b3072cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffdc3f58.css",
+    "static/js/main.4b3072cb.js"
+  ]
+}
